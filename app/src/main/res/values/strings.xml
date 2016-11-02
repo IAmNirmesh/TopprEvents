@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TopprEvents</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_event_detail">EventDetailActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="list_sorted_msg">List sorted by category</string>
+    <string name="query_hint">Search by name/category</string>
+    <string name="no_event_msg">No event list</string>
+    <string name="favourite_title">Favourites</string>
+    <string name="home_title">Home</string>
+    <string name="no_favourite_event">No favourite events</string>
+    <string name="link_url">www.hackerearth.com</string>
+    <string name="description">Description:</string>
+    <string name="share">Share</string>
+    <string name="search">Search</string>
+    <string name="sort_by_category">Sort by category</string>
+    <string name="favourites">Favourites</string>
+    <string-array name="category_arr">
+        <item>Sort by category</item>
+        <item>BOT</item>
+        <item>HIRING</item>
+        <item>HACKATHON</item>
+    </string-array>
+</resources>
